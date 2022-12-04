@@ -2,9 +2,13 @@
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
 
+# Icon
+Icon?
+
 # Folders
 _SolvedIssues
 _Steps
+_stamaappIdeas
 
 # Miscellaneous
 *.class

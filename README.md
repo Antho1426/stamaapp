@@ -1,4 +1,4 @@
-# Team STAMA Flutter App
+# Team STAMA Flutter App<!-- omit in toc -->
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -10,33 +10,34 @@
  > Author: Anthony Guinchard <br>
  > Institution: Team STAMA <br>
  
-## Table of contents
-* [1. Description](#1-description)
-* [2. Resources](#2-resources)
-* [3. Installation](#3-installation)
-* [4. Version history](#4-version-history)
-* [5. Contributing](#5-contributing)
+## Table of contents<!-- omit in toc -->
+
+- [1. Description](#1-description)
+- [2. Resources](#2-resources)
+- [3. Installation](#3-installation)
+- [4. Version history](#4-version-history)
+- [5. Contributing](#5-contributing)
 
 <!-- toc -->
 
 ## 1. Description
+
 Official Team STAMA (acrobatic martial arts group) app.
 
-
 ## 2. Resources
-
 
 ## 3. Installation
 
 Clone this repository with following Terminal command and import `stamaapp` into Android Studio:
 
-```
+```bash
 git clone https://github.com/Antho1426/stamaapp.git
 ```
 
 ## 4. Version history
-* 0.1
-    * Initial release
+
+- 0.1
+  - Initial release
 
 ## 5. Contributing
 

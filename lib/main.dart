@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Firebase'),
+          title: const Text('Firebase new'),
         ),
         floatingActionButton: FloatingActionButton(
           onPressed: () => FirebaseFirestore.instance
